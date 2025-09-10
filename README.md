@@ -21,6 +21,6 @@
 ![VBA](https://img.shields.io/badge/VBA-008000?style=for-the-badge)
 
 ## 📈 Estatísticas
-![João Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=stupidCience&show_icons=true&theme=radical&cache_seconds=60)
+![João Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=stupidCience&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=60)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stupidCience&layout=compact&theme=radical&cache_seconds=60)
