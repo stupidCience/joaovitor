@@ -44,6 +44,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -86,8 +87,8 @@
 
 <div align="center">
   <br>
-  <a href="https://github.com/stupidCience">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stupidCience&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stupidCience&layout=compact&theme=radical"/>
+  <a href="https://github.com/stupidScience">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stupidScience&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stupidScience&layout=compact&theme=radical"/>
   </a>
 </div>
